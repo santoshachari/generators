@@ -1,4 +1,6 @@
-# Laracademy Generators
+# Model Generators Generators
+
+This package is improved upon the Model Generators by Laracademy.
 
 [![Latest Stable Version](https://poser.pugx.org/laracademy/generators/v/stable)](https://packagist.org/packages/laracademy/generators) [![Total Downloads](https://poser.pugx.org/laracademy/generators/downloads)](https://packagist.org/packages/laracademy/generators) [![Latest Unstable Version](https://poser.pugx.org/laracademy/generators/v/unstable)](https://packagist.org/packages/laracademy/generators) [![License](https://poser.pugx.org/laracademy/generators/license)](https://packagist.org/packages/laracademy/generators)
 
