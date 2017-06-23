@@ -13,7 +13,7 @@ class ModelFromTableCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'generate:modelfromtable
+    protected $signature = 'generate:modelFromTable
                             {--table= : a single table or a list of tables separated by a comma (,)}
                             {--connection= : database connection to use, leave off and it will use the .env connection}
                             {--debug : turns on debugging}
